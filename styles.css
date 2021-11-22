@@ -249,6 +249,7 @@
   text-align: center;
   letter-spacing: 0.05em;
   color: #000000;
+  margin-top: 64px;
 }
 
 .what-we-do-card-para-uniq {
@@ -743,6 +744,7 @@ body {
     line-height: 28px;
     text-align: center;
     color: #000000;
+    margin-top: 48px;
   }
 
   .content-button {
