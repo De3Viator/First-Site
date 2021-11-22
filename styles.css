@@ -795,11 +795,7 @@ body {
     padding: 15px 54px;
   }
 
-  .content-para {
+  .left {
     text-align: left;
-  }
-
-  .justify-list {
-    list-style-type: upper-alpha;
   }
 }
